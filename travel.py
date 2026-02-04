@@ -50,3 +50,4 @@ if st.button("Generate Itinerary:"):
     else:
         st.error("Please make sure all inputs are provided and valid.")
 
+
